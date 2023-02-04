@@ -15,7 +15,7 @@ bot.command({
 })
 
 bot.status({
-  text: "By E!it Code",
+  text: "By Shyweroo#2610",
   type: "PLAYING",
 })
 
